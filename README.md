@@ -12,6 +12,14 @@ Smart Education
 
 **RunnerUp @SIH'22 at University Level**
 
+<!--  -->
+
+<br>
+<br>
+
 > Please See Attached Screenshot Below
+
+<br>
+
 <img align="center" src="SIH-22.png">
 
