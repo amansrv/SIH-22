@@ -11,3 +11,7 @@ Smart Education
 > Result
 
 **RunnerUp @SIH'22 at University Level**
+
+> Please See Attached Screenshot Below
+<img align="center" src="SIH-22.png">
+
